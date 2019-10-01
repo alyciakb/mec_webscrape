@@ -2,7 +2,7 @@
 
 ## First Steps
 
-Below is the steps I would take in approaching this position (given my current knowledge of the responsibilities of the position).
+Below are the steps I would take in approaching this position (given my current knowledge of the position's responsibilities.)
 
 1. Talk to Member Insights team members - ask if they have any questions they want answered.
 2. Talk to other relevant MEC teams (ex. customer service, product development, digital marketing) - ask for their intuitions and questions regarding members.
@@ -12,8 +12,9 @@ Below is the steps I would take in approaching this position (given my current k
 6. Develop benchmarks and metrics to be used to track member goals (member satisfaction - of products, services, customer support; retention rates, addition of new members).
 7. Build automated systems that track the defined member insights benchmarks/metrics to allow for continual monitoring of progress.
 
+-------------------------------------------------------------------------------------------------------------------
 
-## A Small Example of Step 5
+## A Small Example of Exploratory Data Analysis
 
 ### MEC Website: Questions and Insights
 
@@ -22,7 +23,7 @@ I recognize that the Member Insights Analyst would start with data more relevant
 
 #### A Few Insights
 
-1. There are 13,930 unique products on the website. Over 50% of products have no reviews and only 19% of products have 5+ reviews. The products with reviews have an average rating of 4.08/5 stars and 89% have a rating of 3+ stars.  
+1. There are 13,930 unique products on the website. Over 50% of products have no reviews and 19% of products have 5+ reviews. The products with reviews have an average rating of 4.08/5 stars and 89% have a rating of 3+ stars.  
 2. There are 1174 MEC branded products sold (8.4% of all products). Almost 74% of the MEC brand has 1+ reviews online and the average rating is 3.94 stars.
 3. Products are divided into 11 categories: camping and hiking, run and fitness, climbing, clothing, footwear, packs and bags, watersports, snowsports, travel gear, cycling, and kids/youth. Of those categories:
     1. Camping and hiking is the largest with almost 40% of products included within that category
@@ -41,6 +42,7 @@ I recognize that the Member Insights Analyst would start with data more relevant
 3. Are products with no reviews less likely to be purchased online than a competing product that has reviews?
 4. How many online product reviews do we have vs. online sales?
 5. Is there a marketing opportunity to increase number of reviews collected from online sales?
+6. Are the low rated products actually performing poorly, or are the low ratings due to having few reviews? Would the ratings of these products increase if more of the purchasers reviewed the products?
 6. Is there a specific segment of members that are more likely to shop online instead of in-store?
 7. Can increasing the number of product reviews we have increase online sales?
 8. Is there a product type or product subcategory that has consistently low reviews that MEC does NOT have any products in? Would it be feasible for MEC to enter this product type and build a product that would better satisfy their members? Or are there similar versions/brands of those products on the market that MEC currently doesn't offer?
