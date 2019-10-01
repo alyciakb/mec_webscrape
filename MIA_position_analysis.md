@@ -1,8 +1,15 @@
-# Member Insights Analyst at MEC
+---
+title: "Member Insights Analyst at MEC"
+author: "Alycia Butterworth"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
 
 ## First Steps
 
-Below are the steps I would take in approaching this position (given my current knowledge of the position's responsibilities.)
+*Below is how I would approach this position (given my current knowledge of the position's responsibilities.)*
 
 1. Talk to Member Insights team members - ask if they have any questions they want answered.
 2. Talk to other relevant MEC teams (ex. customer service, product development, digital marketing) - ask for their intuitions and questions regarding members.
@@ -18,7 +25,7 @@ Below are the steps I would take in approaching this position (given my current 
 
 ### MEC Website: Questions and Insights
 
-I recognize that the Member Insights Analyst would start with data more relevant to the team (such as customer surveys and other direct feedback from members), but I do not have access to that information and instead explored the MEC website. I performed a small MEC website scrape to access product names, product categories, subcategories, average product rating (number of stars), and number of ratings/reviews per product. After cleaning and exploring the data, I garnered a few insights and questions. *Please note all numbers are from the time the data was collected and they may change slightly as products are added/removed from the website.*
+I performed a small MEC website scrape to access product names, product categories, subcategories, average product rating (number of stars), and number of ratings/reviews per product. After cleaning and exploring the data, I garnered a few insights and questions. *Please note all numbers are from the time the data was collected and will change as products are added/removed from the website.*
 
 
 #### A Few Insights
@@ -48,6 +55,6 @@ I recognize that the Member Insights Analyst would start with data more relevant
 8. Is there a product type or product subcategory that has consistently low reviews that MEC does NOT have any products in? Would it be feasible for MEC to enter this product type and build a product that would better satisfy their members? Or are there similar versions/brands of those products on the market that MEC currently doesn't offer?
 
 
-Notes: *There were more insights gained, but presenting too many percentages and numbers can get overwhelming. This was made to be a quick analysis, and therefore I did not include figures (graphs, etc) within this report - something I would do if presenting a more in-depth analysis. Some of the above questions relate to member insights in an indirect way and may be more relevant to other departments, but all can help in gaining a well-rounded look at MEC's members. I recognize that there are better data sources and more important questions for the member insights analyst to tackle first. Further, some of these questions may be the responsibility of an analyst within a different department. This was simply a look at some of the information housed on MEC's website and a few insights and questions it resulted in.*
+Notes: *There were more insights gained, but presenting too many numbers can get overwhelming. This was a quick analysis, therefore I did not include figures (graphs, etc.) within this report - something I would do if presenting an in-depth analysis. Some of the above questions relate to member insights in an indirect way and may be more relevant to other departments, but all can help in gaining a well-rounded look at MEC's members. _I recognize that there are better data sources and more important questions for the member insights analyst to tackle first._ Further, some of these questions may be the responsibility of an analyst within a different department. This was simply a look at some of the information housed on MEC's website and a few insights and questions it resulted in.*
 
 [The full exploratory data analysis - included some visualizations - can be found here.](https://github.com/alyciakb/mec_webscrape/blob/master/mec-scrape.ipynb)
